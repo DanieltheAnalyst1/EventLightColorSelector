@@ -1,6 +1,6 @@
 ---
 
-# EventLightSelector
+# EventLightSelector 💡
 
 The **EventLightSelector** is a simple yet interactive web-based tool that helps users select appropriate lighting color combinations for different types of events. Whether you're planning a concert, corporate event, wedding, fashion show, or church service, this tool provides visually appealing color suggestions that match the theme of the event.
 
