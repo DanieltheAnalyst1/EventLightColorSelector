@@ -4,6 +4,8 @@
 
 The **EventLightSelector** is a simple yet interactive web-based tool that helps users select appropriate lighting color combinations for different types of events. Whether you're planning a concert, corporate event, wedding, fashion show, or church service, this tool provides visually appealing color suggestions that match the theme of the event.
 
+[**Live Demo**](https://danieltheanalyst1.github.io/EventLightColorSelector/)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -21,6 +23,8 @@ The **EventLightSelector** allows users to:
 - Choose a beam light color.
 - Select an event type (concert, corporate, wedding, fashion show, or church).
 - Get automatic suggestions for moving head light color, key light color, and a recommended theme based on the selected event.
+
+[**Try the Live Demo Here**](https://danieltheanalyst1.github.io/EventLightColorSelector/)
 
 ## Features
 
@@ -40,7 +44,7 @@ EventLightSelector/
 
 ## Usage
 
-1. Open the `index.html` file in your browser.
+1. Open the `index.html` file in your browser or visit the [Live Demo](https://danieltheanalyst1.github.io/EventLightColorSelector/).
 2. Select your desired beam light color using the color picker.
 3. Choose the type of event from the dropdown menu.
 4. Click the "Get Color Combination" button to see the suggested colors for your event.
@@ -70,3 +74,6 @@ To run the project locally:
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/EventLightSelector/issues) for any open issues or to submit a pull request.
 
+---
+
+This version of the documentation includes the **Live Demo** link for easy access!
